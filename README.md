@@ -91,7 +91,7 @@ The project includes:
 - Word clouds for countries, cast, and genres.
 
 
-# Translation Model
+## Translation Model
 This project uses the `transformers` library to translate text between multiple languages. The following language pairs are supported:
 
 - English ↔ Spanish
